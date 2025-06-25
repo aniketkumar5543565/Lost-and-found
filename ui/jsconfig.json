@@ -1,0 +1,10 @@
+{
+  // Removed the empty files array
+  // Removed the empty files array
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
